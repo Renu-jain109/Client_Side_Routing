@@ -1,0 +1,11 @@
+.navbar{
+    color: white !important;
+}
+
+.navbar-collapse{
+    margin-left: 600px;
+}
+
+a{
+    font-size: large;
+}
